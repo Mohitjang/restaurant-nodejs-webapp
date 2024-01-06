@@ -1,0 +1,34 @@
+[
+  {
+    "id": "r1",
+    "name": "Taj Hotel",
+    "address": "Mareen Driver",
+    "cuisine": "5 Star",
+    "website": "https://www.hoteltaj.com",
+    "description": "because i never been to there"
+  },
+  {
+    "id": "r2",
+    "name": "OneEight restaurant",
+    "address": "Bangalore",
+    "cuisine": "3 Star",
+    "website": "https://www.oneeightcuisine.com",
+    "description": "Its virat kohli's hotel that's why i am telling you"
+  },
+  {
+    "id": "r3",
+    "name": "Hotel Bridge",
+    "address": "Dubai",
+    "cuisine": "Indian",
+    "website": "https://www.brokenbridge.com",
+    "description": "i think this is so good\r\n\r\n\r\n"
+  },
+  {
+    "name": "Munich Fines Restaurant",
+    "address": "Great Street 5, Munich",
+    "cuisine": "German",
+    "website": "https://munich.awesome.com",
+    "description": "It's in munich, I think that's enough\r\n",
+    "id": "f0ee98ef-df0e-4ebe-aaad-8cae7ceca79f"
+  }
+]
